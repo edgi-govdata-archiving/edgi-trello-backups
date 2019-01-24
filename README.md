@@ -1,5 +1,7 @@
 # EDGI Trello Backups
 
+**This repo is deprecated and no longer maintained or updated.**
+
 The purpose of this git repo is to visibilize changes in Trello boards,
 which by default don't have history.
 
